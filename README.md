@@ -1,3 +1,6 @@
 Amazon clone using react
 
-Developed and used amazon name to practice react.
+Built Home, Checkout, Cart and Login pages using react Functional Components and React Context API
+
+
+*Developed and used Amazon Logo and name to practice react.
